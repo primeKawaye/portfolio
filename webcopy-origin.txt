@@ -1,0 +1,96 @@
+Uri: https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;700;900&display=swap
+File Name: C:\Downloaded Web Sites\gehazijenda.netlify.app\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v22/6xK3dSBYKcSV-LCoeQqfX1RYOo3aPw.ttf
+File Name: C:\Downloaded Web Sites\gehazijenda.netlify.app\s\sourcesanspro\v22\6xK3dSBYKcSV-LCoeQqfX1RYOo3aPw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rAkA.ttf
+File Name: C:\Downloaded Web Sites\gehazijenda.netlify.app\s\sourcesanspro\v22\6xKydSBYKcSV-LCoeQqfX1RYOo3i54rAkA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vAkA.ttf
+File Name: C:\Downloaded Web Sites\gehazijenda.netlify.app\s\sourcesanspro\v22\6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vAkA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3iu4nAkA.ttf
+File Name: C:\Downloaded Web Sites\gehazijenda.netlify.app\s\sourcesanspro\v22\6xKydSBYKcSV-LCoeQqfX1RYOo3iu4nAkA.ttf
+Content Type: font/ttf
+
+Uri: https://gehazijenda.netlify.app/
+File Name: C:\Downloaded Web Sites\gehazijenda.netlify.app\index.htm
+Content Type: text/html
+
+Uri: https://gehazijenda.netlify.app/assets/png/carb_exchange.png
+File Name: C:\Downloaded Web Sites\gehazijenda.netlify.app\assets\png\carb_exchange.png
+Content Type: image/png
+
+Uri: https://gehazijenda.netlify.app/assets/png/fish_market.png
+File Name: C:\Downloaded Web Sites\gehazijenda.netlify.app\assets\png\fish_market.png
+Content Type: image/png
+
+Uri: https://gehazijenda.netlify.app/assets/png/gehazi.jpeg
+File Name: C:\Downloaded Web Sites\gehazijenda.netlify.app\assets\png\gehazi.jpeg
+Content Type: image/jpeg
+
+Uri: https://gehazijenda.netlify.app/assets/png/geoserve.png
+File Name: C:\Downloaded Web Sites\gehazijenda.netlify.app\assets\png\geoserve.png
+Content Type: image/png
+
+Uri: https://gehazijenda.netlify.app/assets/png/github-ico.png
+File Name: C:\Downloaded Web Sites\gehazijenda.netlify.app\assets\png\github-ico.png
+Content Type: image/png
+
+Uri: https://gehazijenda.netlify.app/assets/png/linkedin-ico.png
+File Name: C:\Downloaded Web Sites\gehazijenda.netlify.app\assets\png\linkedin-ico.png
+Content Type: image/png
+
+Uri: https://gehazijenda.netlify.app/assets/png/study_time_planner.png
+File Name: C:\Downloaded Web Sites\gehazijenda.netlify.app\assets\png\study_time_planner.png
+Content Type: image/png
+
+Uri: https://gehazijenda.netlify.app/assets/png/task_list.png
+File Name: C:\Downloaded Web Sites\gehazijenda.netlify.app\assets\png\task_list.png
+Content Type: image/png
+
+Uri: https://gehazijenda.netlify.app/assets/svg/common-bg.svg
+File Name: C:\Downloaded Web Sites\gehazijenda.netlify.app\assets\svg\common-bg.svg
+Content Type: image/svg+xml
+
+Uri: https://gehazijenda.netlify.app/assets/svg/ham-menu-close.svg
+File Name: C:\Downloaded Web Sites\gehazijenda.netlify.app\assets\svg\ham-menu-close.svg
+Content Type: image/svg+xml
+
+Uri: https://gehazijenda.netlify.app/assets/svg/ham-menu.svg
+File Name: C:\Downloaded Web Sites\gehazijenda.netlify.app\assets\svg\ham-menu.svg
+Content Type: image/svg+xml
+
+Uri: https://gehazijenda.netlify.app/carb-exchange-malawi
+File Name: C:\Downloaded Web Sites\gehazijenda.netlify.app\carb-exchange-malawi.html
+Content Type: text/html
+
+Uri: https://gehazijenda.netlify.app/css/style.css
+File Name: C:\Downloaded Web Sites\gehazijenda.netlify.app\css\style.css
+Content Type: text/css
+
+Uri: https://gehazijenda.netlify.app/fish-market
+File Name: C:\Downloaded Web Sites\gehazijenda.netlify.app\fish-market.html
+Content Type: text/html
+
+Uri: https://gehazijenda.netlify.app/geoserve
+File Name: C:\Downloaded Web Sites\gehazijenda.netlify.app\geoserve.html
+Content Type: text/html
+
+Uri: https://gehazijenda.netlify.app/index.js
+File Name: C:\Downloaded Web Sites\gehazijenda.netlify.app\index.js
+Content Type: application/javascript
+
+Uri: https://gehazijenda.netlify.app/study-time-planner
+File Name: C:\Downloaded Web Sites\gehazijenda.netlify.app\study-time-planner.html
+Content Type: text/html
+
+Uri: https://gehazijenda.netlify.app/task-list
+File Name: C:\Downloaded Web Sites\gehazijenda.netlify.app\task-list.html
+Content Type: text/html
+
